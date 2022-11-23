@@ -1,0 +1,25 @@
+/*------------------------------
+	MemberSHPE
+--------------------------------*/
+.header-titles {
+  font-size: 45px;
+}
+
+.flex-container {
+   display: flex;
+}
+
+.flex-child {
+   flex: 1;
+}
+
+.flex-child:first-child {
+   margin-right: 20px;
+}
+
+.dues-info-box {
+  text-align: left;
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+}
